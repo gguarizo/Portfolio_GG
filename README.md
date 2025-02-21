@@ -12,5 +12,14 @@ Foi necessário o estudo dos conceitos e fundamentos de Inteligência Artificial
 
 Após as configurações, arquivo carregado no tipo Regressão, foi possível ter uma visão analítica e estratéfica para tomadas de decisão com mais assertividade de acordo com os horários e dias de maiores demandas. 
 
+![image](https://github.com/user-attachments/assets/000a2c8d-48f1-4618-b90b-71c05d723d7c)
+
+
+![image](https://github.com/user-attachments/assets/e98b303d-fad8-4048-a2bc-3fa65a262a52)
+
+
 ![image](https://github.com/user-attachments/assets/dbac052a-6e23-4baa-b487-bc633973b314)
 
+![image](https://github.com/user-attachments/assets/4358932f-8891-4d6a-8112-e7f5fa14fb4f)
+
+![image](https://github.com/user-attachments/assets/9b46a7bb-4e57-4a76-9f11-395817fd8766)
