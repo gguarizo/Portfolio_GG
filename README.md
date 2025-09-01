@@ -1,4 +1,4 @@
-# Portfolio_GG
+# Desafio de Projeto: Modelo de Previsão de Aluguel de Bicicletas
 
 Neste repositório será entregue o Desafio de Projeto: Modelo de Previsão de Aluguel de Bicicletas.
 
